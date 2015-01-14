@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_settings"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dip"
+    android:background="@color/background_material_light"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dip"
+        android:textSize="15sp"
+        android:textColor="@color/abc_primary_text_material_dark"
+        android:hint="@string/about_author"
+        />
+    
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="@color/background_material_dark"
+        />
+    <TextView
+        android:id="@+id/settings_account_info_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="20sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="web"
+        android:text="@string/tikitoo_github"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="15sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="web"
+        android:text="@string/diigoer_github"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="20sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="web"
+        android:text="@string/tikitoo_zhihu"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="15sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="web"
+        android:text="@string/tikitoo_zhihu_link"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="20sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="web"
+        android:text="@string/tikitoo_weibo"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="15sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="web"
+        android:text="@string/tikitoo_weibo_link"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="20sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="email"
+        android:text="@string/tikitoo_gmail"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="15sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="email"
+        android:text="@string/tikitoo_gmail_link"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="20sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="web"
+        android:text="@string/tikitoo_blog"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:textSize="15sp"
+        android:textColor="@color/background_material_dark"
+        android:autoLink="web"
+        android:text="@string/tikitoo_blog_link"
+        />
+
+
+
+
+
+
+</LinearLayout>

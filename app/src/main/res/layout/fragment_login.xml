@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_floating_material_light"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif_light"
+        android:textSize="40dp"
+        android:textColor="#ff7e7e7e"
+        android:layout_marginBottom="30dp"
+        android:text="@string/diigo_login"
+        />
+    <EditText
+        android:id="@+id/login_username_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/abc_edit_text_material"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_margin="10dp"
+        android:hint="@string/username"
+        />
+
+    <EditText
+        android:id="@+id/login_password_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:background="@drawable/abc_edit_text_material"
+        android:textSize="20dp"
+        android:layout_margin="10dp"
+        android:inputType="textPassword"
+        android:hint="@string/password"
+        />
+    
+    <Button
+        android:id="@+id/login_submit_button"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/button_material_light"
+        android:textSize="20dp"
+        android:textColor="#ff7e7e7e"
+        android:layout_margin="10dp"
+        android:text="@string/login"
+        />
+
+</LinearLayout>

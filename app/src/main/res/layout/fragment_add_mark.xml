@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bright_foreground_material_dark"
+    android:padding="15dp"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/add_url_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/abc_edit_text_material"
+            android:layout_margin="10dp"
+            android:hint="@string/url"/>
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_margin="5dp"
+            android:onClick="getTitleByUrl"
+            android:background="@drawable/action_add"/>
+
+    </FrameLayout>
+
+    <EditText
+        android:id="@+id/add_title_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/abc_edit_text_material"
+        android:layout_margin="10dp"
+        android:hint="@string/title"/>
+
+
+    <AutoCompleteTextView
+        android:id="@+id/add_tags_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/abc_edit_text_material"
+        android:layout_margin="10dp"
+        android:hint="@string/tags"/>
+
+    <EditText
+        android:id="@+id/add_desc_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/abc_edit_text_material"
+        android:layout_margin="10dp"
+        android:hint="@string/desc"/>
+
+
+   
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dip"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#ffc9c9c9"
+        android:orientation="horizontal">
+        <CheckBox
+            android:id="@+id/shared_check_box"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/shared"/>
+
+
+        <CheckBox
+            android:id="@+id/read_later_check_box"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/read_later"/>
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/add_marks_button"
+        android:layout_width="match_parent"
+        android:layout_height="35dip"
+        android:background="@color/button_material_light"
+        android:layout_margin="10dp"
+        android:text="@string/add"/>
+    
+    <Button
+        android:id="@+id/add_marks_test_button"
+        android:layout_width="match_parent"
+        android:layout_height="35dip"
+        android:background="@color/button_material_light"
+        android:layout_margin="10dp"
+        android:onClick="onAddTest"
+        android:text="@string/add_test"/>
+</LinearLayout>
