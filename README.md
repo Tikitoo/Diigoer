@@ -3,7 +3,7 @@ Diigoer is a Diigo Android Clent，That can login, watch bookmarks, The categori
 - [http://www.github.com/Tikitoo/Diigoer]()
 
 ## Install
-- [diigoer_app_0.1.0_02.apk](http://7u2jvr.com1.z0.glb.clouddn.com/diigo-add-mark.png)
+- [diigoer_app_0.1.0_02.apk](http://tikitoo.qiniudn.com/diigo_app_0.1.0_02.apk)
 - Test Account: ``Tikitoo1``, password:``abc123456``
 
 ## Run Environment
