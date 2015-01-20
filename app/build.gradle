@@ -1,14 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        config {
-            keyAlias 'MyAndroidKey'
-            keyPassword 'myPassword'
-            storeFile file('/home/tikitoo/Documents/Android/diigo-android.jks')
-            storePassword 'myPassword'
-        }
-    }
     compileSdkVersion 21
     buildToolsVersion "21.1.2"
     defaultConfig {
