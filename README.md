@@ -1,6 +1,6 @@
 ## Diigoer
 Diigoer is a Diigo Android Clent，That can login, watch bookmarks, The categorization of bookmarks, share, cache, set theme etc;
-- [http://www.github.com/Tikitoo/Diigoer]()
+- [https://github.com/Tikitoo/Diigoer](https://github.com/Tikitoo/Diigoer)
 
 ## Install
 - [diigoer_app_0.1.0_02.apk](http://tikitoo.qiniudn.com/diigo_app_0.1.0_02.apk)
