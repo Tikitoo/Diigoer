@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 21
-    buildToolsVersion "21.1.2"
+    buildToolsVersion "23.0.2"
     defaultConfig {
         applicationId "com.tikitoo.diigo.app2"
         minSdkVersion 14
@@ -14,7 +14,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.config
+//             signingConfig signingConfigs.config
         }
     }
 }
