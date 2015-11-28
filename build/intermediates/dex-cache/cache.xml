@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\project\android\Diigoer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\project\android\Diigoer\app\build\intermediates\pre-dexed\debug\classes-48e610cf030c26f714caffe7f955033ffea92c1c.jar" />
+    </item>
+    <item
+        jar="D:\project\android\Diigoer\diigo.app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\project\android\Diigoer\diigo.app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_f065b7144b545cd700b5f1b662a57ed455190b26.jar" />
+    </item>
+    <item
+        jar="D:\project\android\Diigoer\diigo.app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\project\android\Diigoer\diigo.app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_2835478c149d858525abf78eca0a107630bc3018.jar" />
+    </item>
+    <item
+        jar="D:\project\android\Diigoer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\project\android\Diigoer\app\build\intermediates\pre-dexed\debug\classes-7172336f2010e1fc7e048c783afd91fd1cab0c37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tikitoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\project\android\Diigoer\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-8143be424f906d263c615d7ae5a21028c19658dd.jar" />
+    </item>
+    <item
+        jar="D:\project\android\Diigoer\diigo.app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\project\android\Diigoer\diigo.app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_c0fa344554bb0ae1f561ad23334287b4860870db.jar" />
+    </item>
+    <item
+        jar="D:\project\android\Diigoer\diigo.app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\project\android\Diigoer\diigo.app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_7ef757786559c3f4df3204cfcc9872306c9b3a19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tikitoo\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\project\android\Diigoer\app\build\intermediates\pre-dexed\debug\commons-io-2.4-def61b3d8219cbdbe964e1bd9f78c6629c705350.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tikitoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\project\android\Diigoer\diigo.app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_72483bad43295719c5b8deae2b6ccd822c639831.jar" />
+    </item>
+    <item
+        jar="D:\project\android\Diigoer\diigo.app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\project\android\Diigoer\diigo.app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_7970896b8a765adc5e3e0741b8c645893ee1aa68.jar" />
+    </item>
+    <item
+        jar="D:\project\android\Diigoer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\project\android\Diigoer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-24e141920c199167f6e2a184e2da0c028b021cd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tikitoo\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.6\a845a88238be0b5be9d238652c1bc0605ef91f52\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\project\android\Diigoer\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-43c9924822baebdcf577d816586b4bd58a0f0236.jar" />
+    </item>
+
+</items>
