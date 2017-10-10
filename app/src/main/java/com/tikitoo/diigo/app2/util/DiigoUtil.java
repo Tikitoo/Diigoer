@@ -82,13 +82,6 @@ public class DiigoUtil {
         for (Object key : map.keySet()) {
 
             String value = (String) map.get(key);
-            /*if (value.equals("Tikitoo") || value.equals("1055102871")) {
-                data.remove((String) key);
-                Log.d(TAG, "remove successful key: " + key );
-            }
-            data.commit();
-            */
-            
             list.add(value);
             Log.d(TAG, "get Tag key-value" + key + "-" + value);
         }
