@@ -3,9 +3,14 @@
 **The Project is written two or three years age, because the history long, so trashed, do not recommended that you learn to use.**
 
 
+
 ## Diigoer
 Diigoer is a Diigo Android Clent，That can login, watch bookmarks, The categorization of bookmarks, share, cache, set theme etc;
 - [https://github.com/Tikitoo/Diigoer](https://github.com/Tikitoo/Diigoer)
+
+## Migrate
+The code has been migrated to the [Dev branch] (https://github.com/Tikitoo/Diigoer/tree/dev)
+
 
 ## About Me
 - [Tikitoo](http://www.zhihu.com/Tikitoo)

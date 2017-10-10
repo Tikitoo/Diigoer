@@ -7,6 +7,10 @@ Digoer 是一个Diigo Android 客户端，实现了登录，查看书签，对�
 - [http://www.github.com/Tikitoo/Diigoer]()
 
 
+## 迁移
+代码已经迁移至[Dev 分支](https://github.com/Tikitoo/Diigoer/tree/dev)
+
+
 ## 关于我
 - [Tikitoo](http://www.zhihu.com/Tikitoo)
 - [My Blogs](http://tikitoo.github.io/blog)
