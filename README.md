@@ -1,24 +1,11 @@
+
+## Trash
+**The Project is written two or three years age, because the history long, so trashed, do not recommended that you learn to use.**
+
+
 ## Diigoer
 Diigoer is a Diigo Android Clent，That can login, watch bookmarks, The categorization of bookmarks, share, cache, set theme etc;
 - [https://github.com/Tikitoo/Diigoer](https://github.com/Tikitoo/Diigoer)
-
-## Install
-- [diigoer_app_0.1.0_02.apk](http://tikitoo.qiniudn.com/diigo_app_0.1.0_02.apk)
-- Test Account: ``Tikitoo1``, password:``abc123456``
-
-## Run Environment
-- Android 4.0+
-- Android Studio 1.02
-- Gradle 2.2.1
-
-## Screenshot
-| Add Marks|Main  |
-|---|---|
-| ![](http://7u2jvr.com1.z0.glb.clouddn.com/diigo-add-mark.png) |![](http://7u2jvr.com1.z0.glb.clouddn.com/diigoer-main.png) |
-
-## Third Liberty
-- [Android Async Http](https://github.com/loopj/android-async-http)
-- [Apache Commons IO](http://commons.apache.org/proper/commons-io/)
 
 ## About Me
 - [Tikitoo](http://www.zhihu.com/Tikitoo)

@@ -1,23 +1,11 @@
+
+## 废弃
+**本项目是两三年前的写的，因为历史久远，所以废弃，也不建议大家学习使用。**
+
 ## Diigoer
 Digoer 是一个Diigo Android 客户端，实现了登录，查看书签，对书签的分类，查找，分享（也可分享其他URL 到Diigo），缓存，设置主题等功能：
 - [http://www.github.com/Tikitoo/Diigoer]()
 
-## 安装此软件
-- [diigoer_app_0.1.0_02.apk](http://7u2jvr.com1.z0.glb.clouddn.com/diigo-add-mark.png)
-
-## 运行环境
-- Android 4.0+
-- Android Studio 1.02
-- Gradle 2.2.1
-
-## 截图
-| 添加书签|主界面  |
-|---|---|
-| ![](http://7u2jvr.com1.z0.glb.clouddn.com/diigo-add-mark.png) |![](http://7u2jvr.com1.z0.glb.clouddn.com/diigoer-main.png) |
-
-## 第三方类库以及参考
-- [Android Async Http](https://github.com/loopj/android-async-http)
-- [Apache Commons IO](http://commons.apache.org/proper/commons-io/)
 
 ## 关于我
 - [Tikitoo](http://www.zhihu.com/Tikitoo)
