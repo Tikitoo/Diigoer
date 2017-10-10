@@ -9,7 +9,7 @@ Diigoer is a Diigo Android Clent，That can login, watch bookmarks, The categori
 - [https://github.com/Tikitoo/Diigoer](https://github.com/Tikitoo/Diigoer)
 
 ## Migrate
-The code has been migrated to the [Dev branch] (https://github.com/Tikitoo/Diigoer/tree/dev)
+The code has been migrated to the [Dev branch](https://github.com/Tikitoo/Diigoer/tree/dev)
 
 
 ## About Me
